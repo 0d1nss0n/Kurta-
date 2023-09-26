@@ -24,9 +24,10 @@ Kurta Obfuscator is a Python script that allows you to obfuscate Python code. Ob
 - Simple command-line interface.
 
 ## 📝 〢 Usage
-1. Clone this repository or download the `main.py` script.
-2. Run  `kurta.bat ` to install all libraries
-3. Run the script using Python:
+1. Clone this repository
+2. (Windows) Run  `kurta.bat ` to install all libraries
+3. (Linux) pip install -r requirements.txt
+4. Run the script using Python:
 
    ```bash
    python main.py
